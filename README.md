@@ -1,6 +1,11 @@
 # **Management and Outcomes of Myelomeningocele-Associated Hydrocephalus in Low-Income and Middle-Income Countries: A Systematic Review and Meta-Analysis**
 
-This [Jupyter notebook](https://github.com/nooralteneiji/Clinical-outcome-in-degenerative-cervical-myelopathy--a-systematic-review/blob/main/Interactive_manuscript.ipynb) presents a comprehensive analysis and review of the management and outcomes of myelomeningocele-associated hydrocephalus in low-income and middle-income countries.
+This repository houses a systematic review and meta-analysis focusing on the management and outcomes of myelomeningocele-associated hydrocephalus in low-income and middle-income countries. Through an extensive evaluation of relevant studies, the analysis aims to understand the landscape of treatments, interventions, and outcomes in diverse economic environments. 
+
+The core of the repository is a [Jupyter notebook](https://github.com/nooralteneiji/Clinical-outcome-in-degenerative-cervical-myelopathy--a-systematic-review/blob/main/Interactive_manuscript.ipynb), structured to guide readers through the entire process, from data setup to the presentation of findings in detailed tables and visualizations. Supplementary materials provide additional insights. 
+
+Whether you're a researcher in the field, a medical professional, or someone with an interest in global health disparities, this repository offers valuable insights into the challenges and patterns of treating myelomeningocele-associated hydrocephalus across different economic contexts.
+
 
 ## **Contents:**
 1. **Setup**: Environment setup, including the import of necessary libraries and loading of primary datasets.
