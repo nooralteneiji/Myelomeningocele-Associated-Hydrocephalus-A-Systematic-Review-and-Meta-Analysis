@@ -12,6 +12,6 @@ This [Jupyter notebook](https://github.com/nooralteneiji/Clinical-outcome-in-deg
 The cells do not need to be loaded sequentially to reproduce the results and visualizations, as long as you first run the 'Set-up' code block found at the start of the script.
 
 ## **Datasets:**
-The primary dataset is organized into multiple sheets, each representing different facets of the study. Each sheet is loaded into its respective DataFrame for analysis.
+The [primary dataset](https://github.com/nooralteneiji/Clinical-outcome-in-degenerative-cervical-myelopathy--a-systematic-review/blob/main/Data.xlsx) is organized into multiple sheets, each representing different facets of the study. Each sheet is loaded into its respective DataFrame for analysis.
 
 ## **License:**
