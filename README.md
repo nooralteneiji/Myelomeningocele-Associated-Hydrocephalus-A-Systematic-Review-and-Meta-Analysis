@@ -9,7 +9,7 @@ This repository houses a systematic review and meta-analysis focusing on the man
 
 The core of the repository is a [Jupyter notebook](https://github.com/nooralteneiji/Clinical-outcome-in-degenerative-cervical-myelopathy--a-systematic-review/blob/main/Interactive_manuscript.ipynb), structured to guide readers through the entire process, from data setup to the presentation of findings in detailed tables and visualizations. Supplementary materials provide additional insights. 
 
-The code was inspired by Matteo Mancini's [meta-analysis of MRI biomarkers of myelin](https://github.com/matteomancini/myelin-meta-analysis/tree/master). 
+The repository was inspired by Matteo Mancini's [meta-analysis of MRI biomarkers of myelin](https://github.com/matteomancini/myelin-meta-analysis/tree/master). 
 
 This repository offers valuable insights into the challenges and patterns of treating myelomeningocele-associated hydrocephalus across different economic contexts.
 
