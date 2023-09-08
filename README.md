@@ -1,5 +1,10 @@
 # **Management and Outcomes of Myelomeningocele-Associated Hydrocephalus in Low-Income and Middle-Income Countries: A Systematic Review and Meta-Analysis**
 
+[![Binder](https://mybinder.org/badge_logo.svg)]()
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/matteomancini/myelin-meta-analysis/blob/master/meta-analysis.ipynb](https://colab.research.google.com/drive/1OrB85UySxAv3lPb05gjNAmFI5b5hsO6M?usp=sharing))
+
+<br>
+
 This repository houses a systematic review and meta-analysis focusing on the management and outcomes of myelomeningocele-associated hydrocephalus in low-income and middle-income countries. Through an extensive evaluation of relevant studies, the analysis aims to understand the landscape of treatments, interventions, and outcomes in diverse economic environments. 
 
 The core of the repository is a [Jupyter notebook](https://github.com/nooralteneiji/Clinical-outcome-in-degenerative-cervical-myelopathy--a-systematic-review/blob/main/Interactive_manuscript.ipynb), structured to guide readers through the entire process, from data setup to the presentation of findings in detailed tables and visualizations. Supplementary materials provide additional insights. 
