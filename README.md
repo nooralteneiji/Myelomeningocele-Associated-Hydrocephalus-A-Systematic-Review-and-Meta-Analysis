@@ -18,7 +18,7 @@ This repository offers valuable insights into the challenges and patterns of tre
 ## Pre-requisites 
 To execute the notebook, ensure you have Python (version 3.11.4), Jupyter, and the R packages ['metafor'](http://www.metafor-project.org) and 'multcomp' installed. The mixed-effect model is implemented using the 'metafor' package, which is interfaced through the ['rpy2'](https://rpy2.github.io) package. For more details, refer to the [metafor project](http://www.metafor-project.org) and [rpy2 documentation](https://rpy2.github.io).
 
-## **Contents:**
+## **Contents**
 1. **Setup**: Environment setup, including the import of necessary libraries and loading of primary datasets.
 2. **PRISMA Diagram**: A visual representation of the studies included and excluded during the review process.
 3. **Tables and Figures**: Detailed tables and figures that provide a comprehensive overview of studies and their findings.
@@ -27,10 +27,10 @@ To execute the notebook, ensure you have Python (version 3.11.4), Jupyter, and t
 ## **Usage:**
 The cells do not need to be loaded sequentially to reproduce the results and visualizations, as long as you first run the 'Set-up' code block found at the start of the script.
 
-## **Datasets:**
+## **Datasets**
 The [primary dataset](https://github.com/nooralteneiji/Clinical-outcome-in-degenerative-cervical-myelopathy--a-systematic-review/blob/main/Data.xlsx) is organized into multiple sheets, each representing different facets of the study. Each sheet is loaded into its respective DataFrame for analysis.
 
-## **License:**
+## **License**
 [![License: CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc/4.0/)
 
 This work is licensed under the [Creative Commons Attribution-NonCommercial-NoDerivatives (CC BY-NC-ND) 4.0](https://github.com/nooralteneiji/Myelomeningocele-Associated-Hydrocephalus-A-Systematic-Review-and-Meta-Analysis/blob/main/LICENSE-CC-BY-NC-ND-4.0.md). This license allows readers to share (mirror) our content, as long as they give proper credit and refrain from using our work for commercial purposes.
