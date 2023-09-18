@@ -2,7 +2,9 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)]( )
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1xjfswBLck0jp0fcVhtwJWm_iRh3Kfesu?usp=sharing)
-
+![Python](https://img.shields.io/badge/python-3.11-blue.svg)
+[![DOI](https://zenodo.org/badge/259046250.svg)](https://zenodo.org/badge/latestdoi/259046250)
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC_BY--NC_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 <br>
 
 This repository houses a systematic review and meta-analysis focusing on the management and outcomes of myelomeningocele-associated hydrocephalus in low-income and middle-income countries. Through an extensive evaluation of relevant studies, the analysis aims to understand the landscape of treatments, interventions, and outcomes in diverse economic environments. 
@@ -29,3 +31,8 @@ The cells do not need to be loaded sequentially to reproduce the results and vis
 The [primary dataset](https://github.com/nooralteneiji/Clinical-outcome-in-degenerative-cervical-myelopathy--a-systematic-review/blob/main/Data.xlsx) is organized into multiple sheets, each representing different facets of the study. Each sheet is loaded into its respective DataFrame for analysis.
 
 ## **License:**
+[![License: CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc/4.0/)
+
+This work is licensed under the [Creative Commons Attribution-NonCommercial-NoDerivatives (CC BY-NC-ND) 4.0](https://github.com/nooralteneiji/Myelomeningocele-Associated-Hydrocephalus-A-Systematic-Review-and-Meta-Analysis/blob/main/LICENSE-CC-BY-NC-ND-4.0.md). This license allows readers to share (mirror) our content, as long as they give proper credit and refrain from using our work for commercial purposes.
+
+For additional details, please refer to [this page](https://creativecommons.org/licenses/by-nc-nd/4.0/).
