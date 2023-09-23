@@ -1,6 +1,6 @@
 # **Management and Outcomes of Myelomeningocele-Associated Hydrocephalus in Low-Income and Middle-Income Countries: A Systematic Review and Meta-Analysis**
 
-[![Binder](https://mybinder.org/badge_logo.svg)]( )
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nooralteneiji/Myelomeningocele-Associated-Hydrocephalus-A-Systematic-Review-and-Meta-Analysis/main?labpath=Interactive_manuscript.ipynb)
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1xjfswBLck0jp0fcVhtwJWm_iRh3Kfesu?usp=sharing)
 ![Python](https://img.shields.io/badge/python-3.11-blue.svg)
 [![DOI](https://zenodo.org/badge/259046250.svg)](https://zenodo.org/badge/latestdoi/259046250)
