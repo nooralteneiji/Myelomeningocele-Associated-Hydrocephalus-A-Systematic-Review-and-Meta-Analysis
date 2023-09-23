@@ -24,7 +24,7 @@ To execute the notebook, ensure you have Python (version 3.11.4), Jupyter, and t
 3. **Tables and Figures**: Detailed tables and figures that provide a comprehensive overview of studies and their findings.
 4. **Supplemental Materials**: Additional insights, including a list of studies excluded at the full-text screening stage and their reasons.
 
-## **Usage:**
+## **Usage**
 The cells do not need to be loaded sequentially to reproduce the results and visualizations, as long as you first run the 'Set-up' code block found at the start of the script.
 
 ## **Datasets**
@@ -34,4 +34,5 @@ The [primary dataset](https://github.com/nooralteneiji/Clinical-outcome-in-degen
 [![License: CC BY-NC 4.0](https://i.creativecommons.org/l/by-nc/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc/4.0/)
 
 This work is licensed under the [Creative Commons Attribution-NonCommercial (CC BY-NC) 4.0](https://github.com/nooralteneiji/Myelomeningocele-Associated-Hydrocephalus-A-Systematic-Review-and-Meta-Analysis/blob/main/LICENSE-CC-BY-NC-4.0.md). This license allows readers to share (mirror) our content, as long as they give proper credit and refrain from using our work for commercial purposes.
+
 For additional details, please refer to [this page](http://creativecommons.org/licenses/by-nc/4.0/).
