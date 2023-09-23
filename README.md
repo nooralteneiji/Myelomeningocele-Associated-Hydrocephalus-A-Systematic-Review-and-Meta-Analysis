@@ -31,8 +31,8 @@ The cells do not need to be loaded sequentially to reproduce the results and vis
 The [primary dataset](https://github.com/nooralteneiji/Clinical-outcome-in-degenerative-cervical-myelopathy--a-systematic-review/blob/main/Data.xlsx) is organized into multiple sheets, each representing different facets of the study. Each sheet is loaded into its respective DataFrame for analysis.
 
 ## **License**
-[![License: CC BY-NC 4.0]([https://licensebuttons.net/l/by-nc/4.0/80x15.png](http://creativecommons.org/licenses/by-nc/4.0/)
+[![License: CC BY-NC 4.0](https://i.creativecommons.org/l/by-nc/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc/4.0/)
 
 This work is licensed under the [Creative Commons Attribution-NonCommercial (CC BY-NC) 4.0](https://github.com/nooralteneiji/Myelomeningocele-Associated-Hydrocephalus-A-Systematic-Review-and-Meta-Analysis/blob/main/LICENSE-CC-BY-NC-ND-4.0.md). This license allows readers to share (mirror) our content, as long as they give proper credit and refrain from using our work for commercial purposes.
 
-For additional details, please refer to [this page](https://creativecommons.org/licenses/by-nc/4.0/).
+For additional details, please refer to [this page](http://creativecommons.org/licenses/by-nc/4.0/).
