@@ -16,7 +16,7 @@ The repository was inspired by Matteo Mancini's [meta-analysis of MRI biomarkers
 This repository offers valuable insights into the challenges and patterns of treating myelomeningocele-associated hydrocephalus across different economic contexts.
 
 ## Pre-requisites 
-To execute the notebook, ensure you have Python (version 3.11.4), Jupyter, and the R packages ['metafor'](http://www.metafor-project.org) and 'multcomp' installed. rpy2 allows us to create an interface that communicate between Python and R, giving us R functionalities and objects within our code seamlessly. The mixed-effect model is implemented using the 'metafor' package, which is interfaced through the ['rpy2'](https://rpy2.github.io) package. For more details, refer to the [metafor project](http://www.metafor-project.org) and [rpy2 documentation](https://rpy2.github.io).
+To execute the notebook, ensure you have Python (version 3.11.4), Jupyter, and the R packages ['metafor'](http://www.metafor-project.org) and 'multcomp' installed. rpy2 allows us to create an interface that communicates between Python and R, giving us R functionalities and objects within our code seamlessly. The mixed-effect model is implemented using the 'metafor' package, which is interfaced through the ['rpy2'](https://rpy2.github.io) package. For more details, refer to the [metafor project](http://www.metafor-project.org) and [rpy2 documentation](https://rpy2.github.io).
 
 ## **Contents**
 1. **Setup**: Environment setup, including the import of necessary libraries and loading of primary datasets.
